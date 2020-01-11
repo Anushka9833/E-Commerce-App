@@ -1,14 +1,16 @@
 # SampleApp1
 
-This is a simple shopping application . It has :
+This is an online shopping application for iOS platform i.e for iphones . It has 8 screens :
 
 
-1. Login screen 
-2. logout screen
-3. browse screen (all the products are dispayed in it)
-4. Hot screen(to show what's trending)
-5. Cart screen(products get added in it which you want to buy)
-
+1. Welcome screen
+2. Log in screen
+3. Register screen
+4. Browse screen (all the products are dispayed in it)
+5. Hot screen(to show what's trending)
+6. Cart screen(products get added in it which you want to buy)
+7. Profile screen
+8. Product details screen 
 
 Core data and User-defaults is used in this application to save data locally.
 It is in MVC(Model View Controller) design pattern. It is dynamic in nature. 
