@@ -28,5 +28,5 @@ It is in MVC(Model View Controller) design pattern. It is dynamic in nature.
 
 
 
-NOTE:  You can log in the app using :  username: user1 , password: 123
+NOTE:  You can log in the app using the username and password you entered in the register page dynamically . 
 
